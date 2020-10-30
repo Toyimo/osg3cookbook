@@ -10,6 +10,3 @@ nav:
 - Chapter 8: 'ch08.md'
 - Chapter 9: 'ch09.md'
 theme: readthedocs
-formats:
-  - pdf
-  - Zipped HTML
