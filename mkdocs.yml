@@ -1,13 +1,13 @@
 site_name: OpenSceneGraph 3.0 Cookbook
-pages:
-- [index.md, Home]
-- [ch01.md, Chapter 1]
-- [ch02.md, Chapter 2]
-- [ch03.md, Chapter 3]
-- [ch04.md, Chapter 4]
-- [ch05.md, Chapter 5]
-- [ch06.md, Chapter 6]
-- [ch07.md, Chapter 7]
-- [ch08.md, Chapter 8]
-- [ch09.md, Chapter 9]
+nav:
+- Home: 'index.md'
+- Chapter 1: 'ch01.md'
+- Chapter 2: 'ch02.md'
+- Chapter 3: 'ch03.md'
+- Chapter 4: 'ch04.md'
+- Chapter 5: 'ch05.md'
+- Chapter 6: 'ch06.md'
+- Chapter 7: 'ch07.md'
+- Chapter 8: 'ch08.md'
+- Chapter 9: 'ch09.md'
 theme: readthedocs
